@@ -29,7 +29,7 @@ cd MovieRecommenderSystem
 4. Install the requirements
 pip install -r requirements.txt
 
-5. Running Locally
+5. Running Locally - 
 To run the project locally using Streamlit, execute:
 streamlit run app.py
 
