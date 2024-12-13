@@ -34,3 +34,5 @@ streamlit run app.py
 
 # Usage
 After running the application, Streamlit will provide a local URL which you can use to access the web application. Enter your preferences and receive movie recommendations.
+
+# Link - https://movierecommendersystem-sdtb8fjykm4wumynekeyzu.streamlit.app/ 
