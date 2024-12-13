@@ -1,5 +1,4 @@
 # MovieRecommenderSystem
-# Movie Recommender System
 
 ## Project Overview
 This project develops a content-based Movie Recommender System that suggests movies based on user preferences. Using machine learning algorithms, it analyzes movie features to provide personalized recommendations.
